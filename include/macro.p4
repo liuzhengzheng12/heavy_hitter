@@ -1,0 +1,2 @@
+#define INSTANCE_CNT 65536
+#define HEAVY_HITTER_QID 31
